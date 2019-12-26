@@ -1,0 +1,17 @@
+.container {
+	width :300px; 
+	margin:auto;
+	position: relative;
+	overflow: hidden;
+}
+
+
+.enemy {
+	position: absolute;
+	z-index: 1;
+}
+
+
+#myplane{
+	position: absolute;
+}
